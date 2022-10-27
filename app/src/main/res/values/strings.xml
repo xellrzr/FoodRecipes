@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FoodRecipes</string>
+
+    <string name="main_page">Home</string>
+    <string name="search_recipes">Search recipes</string>
+    <string name="favorite_recipes">Favorite recipes</string>
+
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+
+
+    <string name="main_course">Main Course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="salad">Salad</string>
+    <string name="bread">Bread</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="soup">Soup</string>
+    <string name="beverage">Beverage</string>
+    <string name="sauce">Sauce</string>
+    <string name="marinade">Marinade</string>
+    <string name="fingerfood">Fingerfood</string>
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="ketogenic">Ketogenic</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="lacto_vegetarian">Lacto-Vegetarian</string>
+    <string name="ovo_vegetarian">Ovo-Vegetarian</string>
+    <string name="pescetarian">Pescetarian</string>
+    <string name="paleo">Paleo</string>
+    <string name="primal">Primal</string>
+    <string name="low_foadmap">Low FOADMAP</string>
+    <string name="whole_30">Whole 30</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shopping_list">Shopping List</string>
+
+</resources>

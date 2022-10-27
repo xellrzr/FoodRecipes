@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextView" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TitleTextView" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/rubik_medium</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="DescriptionTextView" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="RecipeDescription" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+    </style>
+
+    <style name="IngredientDescription" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+    </style>
+
+    <style name="RoundedShape" parent="">
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="MiscTextView" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_color</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">@color/chip_text_color</item>
+    </style>
+
+
+</resources>

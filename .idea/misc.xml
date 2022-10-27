@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_4/app/src/main/res/layout/fragment_random_recipes.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_4/app/src/main/res/layout/recipe_preview.xml" value="0.33" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_4/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/fragment_recipes.xml" value="0.25" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/fragment_single_recipe.xml" value="0.3342036553524804" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/ingredient_preview.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/ingredient_shop_preview.xml" value="0.33" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/menutype_bottom_sheet.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/placeholder_layout.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/preview_row_layout.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/recipe_preview.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/layout/recipes_bottom_sheet.xml" value="0.31721470019342357" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/menu-v26/recipes_action_menu.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/FoodRecipes_Version/FoodRecipes_6/app/src/main/res/menu/recipes_action_menu.xml" value="0.266015625" />
+        <entry key="..\:/Users/Xell/Desktop/Pet-projects/FoodRecipes/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/Xell/Desktop/Pet-projects/FoodRecipes/app/src/main/res/layout/fragment_random_recipes.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Xell/Desktop/Pet-projects/FoodRecipes/app/src/main/res/layout/recipe_preview.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Xell/Desktop/Pet-projects/FoodRecipes/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3546875" />
+        <entry key="app/src/main/res/drawable/ic_cooking_timer.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_likes.xml" value="0.175" />
+        <entry key="app/src/main/res/font/font.xml" value="0.3854166666666667" />
+        <entry key="app/src/main/res/font/rubik.xml" value="0.38051282051282054" />
+        <entry key="app/src/main/res/font/rubik_medium.xml" value="0.38051282051282054" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_random_recipes.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_recipes.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_search_recipes.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_shop_list.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_single_recipe.xml" value="0.30570652173913043" />
+        <entry key="app/src/main/res/layout/ingredient_preview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/ingredient_shop_preview.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/instructions_item.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/placeholder_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/recipe_preview.xml" value="0.33587786259541985" />
+        <entry key="app/src/main/res/layout/recipes_bottom_sheet.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3703125" />
+        <entry key="app/src/main/res/menu/recipes_action_menu.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

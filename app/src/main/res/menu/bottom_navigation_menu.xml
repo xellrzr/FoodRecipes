@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/randomRecipesFragment2"
+        android:title="@string/main_page"
+        android:icon="@drawable/ic_main_page"/>
+
+    <item android:id="@+id/searchRecipesFragment2"
+        android:title="@string/search_recipes"
+        android:icon="@drawable/ic_search_recipes"/>
+
+    <item android:id="@+id/favoriteRecipesFragment"
+        android:title="@string/favorite_recipes"
+        android:icon="@drawable/ic_favorite_recipes"/>
+
+    <item android:id="@+id/shopListFragment2"
+        android:title="@string/shopping_list"
+        android:icon="@drawable/ic_shop"/>
+
+</menu>

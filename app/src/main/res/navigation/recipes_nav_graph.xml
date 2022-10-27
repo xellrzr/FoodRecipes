@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recipes_nav_graph"
+    app:startDestination="@id/randomRecipesFragment2">
+    <fragment
+        android:id="@+id/randomRecipesFragment2"
+        android:name="com.example.foodrecipes.fragments.RecipesFragment"
+        android:label="Random Recipes" >
+        <action
+            android:id="@+id/action_randomRecipesFragment2_to_recipesBottomSheet"
+            app:destination="@id/recipesBottomSheet" />
+        <argument
+            android:name="backFromBottomSheet"
+            app:argType="boolean"
+            android:defaultValue="false" />
+        <action
+            android:id="@+id/action_randomRecipesFragment2_to_singleRecipeFragment"
+            app:destination="@id/singleRecipeFragment"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <dialog
+        android:id="@+id/recipesBottomSheet"
+        android:name="com.example.foodrecipes.fragments.RecipesBottomSheet"
+        android:label="RecipesBottomSheet" >
+        <action
+            android:id="@+id/action_recipesBottomSheet_to_randomRecipesFragment2"
+            app:destination="@id/randomRecipesFragment2"
+            app:popUpTo="@id/randomRecipesFragment2"
+            app:popUpToInclusive="true" />
+    </dialog>
+    <fragment
+        android:id="@+id/singleRecipeFragment"
+        android:name="com.example.foodrecipes.fragments.SingleRecipeFragment"
+        android:label="Recipe information"
+        tools:layout="@layout/fragment_single_recipe">
+        <argument
+            android:name="result"
+            app:argType="com.example.foodrecipes.models.Result" />
+        <action
+            android:id="@+id/action_singleRecipeFragment_to_randomRecipesFragment2"
+            app:destination="@id/randomRecipesFragment2"
+            app:popUpTo="@id/randomRecipesFragment2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchRecipesFragment2"
+        android:name="com.example.foodrecipes.fragments.SearchRecipesFragment"
+        android:label="Search recipes"
+        tools:layout="@layout/fragment_search_recipes">
+        <action
+            android:id="@+id/action_searchRecipesFragment2_to_singleRecipeFragment"
+            app:destination="@id/singleRecipeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoriteRecipesFragment"
+        android:name="com.example.foodrecipes.fragments.FavoriteRecipesFragment"
+        android:label="Favorite Recipes"
+        tools:layout="@layout/fragment_favorite_recipes">
+        <action
+            android:id="@+id/action_favoriteRecipesFragment_to_singleRecipeFragment"
+            app:destination="@id/singleRecipeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/shopListFragment2"
+        android:name="com.example.foodrecipes.fragments.ShopListFragment"
+        android:label="Shopping List"
+        tools:layout="@layout/fragment_shop_list" />
+</navigation>
