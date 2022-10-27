@@ -2,6 +2,7 @@
 ![Mobile-App-Screen-Mockups](https://user-images.githubusercontent.com/102462620/198264029-5d373e1e-6f21-4688-b975-288f37c7bb75.jpg)
 
 A minimalistic pet-project Built with MVVM, ROOM, Hilt, Retrofit and a little bit another libraries. The project uses [spoonacular API](https://spoonacular.com).
+Has a lot of comments, a few unfinished problems))
 
 ## Description:
 
